@@ -1,0 +1,1336 @@
+[
+  {
+    "id": "9cb3899b-3101-4bd8-a8cf-9c86029f0536",
+    "created": "2022-05-16T20:10:53.8660266",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-9cb3899b31014bd8a8cf9c86029f0536?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=iz1U1RYQ%2FCDeJmv%2B%2FZdrdvQ6jZvXV%2FXbqzeEku1aSj8%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-9cb3899b31014bd8a8cf9c86029f0536?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=XfgDf7aGTWvZxGCbl9YM4ScOiChrrODBX3EQ6rpFJhY%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-9cb3899b31014bd8a8cf9c86029f0536?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=GFrmUHQPjuMpNE4wspkeej0fO4Nrsh0CRmV3jKfLUmw%3D"
+  },
+  {
+    "id": "e586319b-e591-4370-8ca1-d7f57c195807",
+    "created": "2022-05-16T20:10:53.4234561",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-e586319be59143708ca1d7f57c195807?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=LnI9SG7O%2BpkSyd%2Bguq8%2FWoil%2Bd7CoY%2BevSGLlv1NTBM%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-e586319be59143708ca1d7f57c195807?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=ATOlKy5MeXB5MkruHM0KMXv%2FuiTd0hZ5VAnyAZtL%2B5M%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-e586319be59143708ca1d7f57c195807?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=rsWZugJFadlsJ0PgZ9z9x%2F%2FvzFyGMx9zhOwxr8lei2c%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:14:03.4709318"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "94f3de83-d4c5-4396-af1d-9c416d7f3949",
+        "tagName": "Z1ROI",
+        "created": "2022-07-06T07:45:38.2210150",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.10000363,
+        "top": 0.20166038,
+        "width": 0.7658442,
+        "height": 0.35849133
+      },
+      {
+        "regionId": "e1576700-b317-4cac-99b0-1d7f1c38e452",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:14:03.4709318",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.08445946,
+        "top": 0.2109375,
+        "width": 0.7972973,
+        "height": 0.35316455
+      }
+    ]
+  },
+  {
+    "id": "cbb639a2-c530-4e3d-9160-bdc4ea74ccbf",
+    "created": "2022-05-16T20:10:53.2509404",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-cbb639a2c5304e3d9160bdc4ea74ccbf?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=wnXB%2BJUhR%2BkR%2BGox9Qv8IY2dAcLwfmdl8OklSGcbBj4%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-cbb639a2c5304e3d9160bdc4ea74ccbf?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=fao42BsQM%2BcMOCJ5JpXRc%2B7ludWPNmXvogyXEYJYkCY%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-cbb639a2c5304e3d9160bdc4ea74ccbf?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=VV1kBM4dflti1zccMcmPFK%2FAEM7ZfmDxiSH6YQDIrsc%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:14:18.1114537"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "324abab3-c92a-4fd8-b9ea-c076cb0122ea",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:14:18.1114537",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.08445946,
+        "top": 0.20967168,
+        "width": 0.8091216,
+        "height": 0.3607595
+      }
+    ]
+  },
+  {
+    "id": "c487ad37-26ff-49a3-a2e2-8147257d2a11",
+    "created": "2022-05-16T20:10:53.2381043",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-c487ad3726ff49a3a2e28147257d2a11?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=imNbITE6DO0GY0jqCi%2FlP1oNU3bJmUJkTYVlDn8Ue4M%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-c487ad3726ff49a3a2e28147257d2a11?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=FtqIciRjGrRYSgxEKOmm6jn6KhP%2FUEbEmBZSUwFMojQ%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-c487ad3726ff49a3a2e28147257d2a11?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=TwSWSTp9ZD%2BuCEn7gmO69VXfipxjrrpgmZkmcq7U%2BuY%3D"
+  },
+  {
+    "id": "5f32b988-438d-4a99-9f2b-f35fffd7fc96",
+    "created": "2022-05-16T20:10:52.7437291",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-5f32b988438d4a999f2bf35fffd7fc96?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Zl%2FaQMNdE0pyR0USu%2B33Ng5YKQ1LOsS6CzvSrwYxEe4%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-5f32b988438d4a999f2bf35fffd7fc96?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Rpf93wan7g0ffXn1RDcrH8Z%2FEtcYYG9Brej%2Fn7p3%2BiE%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-5f32b988438d4a999f2bf35fffd7fc96?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=W4tbobSyfkWf3lOLNxZ3UXogPPQKC1zgo6lzL%2F7gkWo%3D"
+  },
+  {
+    "id": "8f875dda-bb05-405c-9545-b557b2ed9d2e",
+    "created": "2022-05-16T20:10:52.5609158",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-8f875ddabb05405c9545b557b2ed9d2e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=XrjOVxSv%2Fjo0cXHDECT1mZEi%2FPhLDqEXxTY8goi%2FVKI%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-8f875ddabb05405c9545b557b2ed9d2e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=UmFED3sny8QKSY0eN8G15XpUO6aMZGsv72j3k5wTA1Q%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-8f875ddabb05405c9545b557b2ed9d2e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=EttnDFpCUyVm2CJDw7t8hCBklj%2FK9DxwHkkkh2D9xV4%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:16:51.5167938"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "ca2eb783-63b9-40b5-a1e6-995c33e25dd5",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:16:51.5324211",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.113175675,
+        "top": 0.24258307,
+        "width": 0.8057432,
+        "height": 0.35696203
+      }
+    ]
+  },
+  {
+    "id": "dc9f0e60-3c5a-42e7-82a3-5fe937205613",
+    "created": "2022-05-16T20:10:52.0409812",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-dc9f0e603c5a42e782a35fe937205613?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=QU3ydrQZgWsdFYk3f2EiD%2B1AFd4rAGa3yorLgLKbiVA%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-dc9f0e603c5a42e782a35fe937205613?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=pyOPUlo%2FbMb460zv%2FFrKhMzn7BtbrZK4%2Frp99pdFf50%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-dc9f0e603c5a42e782a35fe937205613?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=7zrBjZ7iPN2iFOvLVj9SOKeiBZj24DXDOb0kc1N8G6M%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:17:08.6885876"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "0dba237b-6d18-43be-bbbe-3fa10fe156d6",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:17:08.6885876",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.09966216,
+        "top": 0.2387856,
+        "width": 0.8108108,
+        "height": 0.36708862
+      }
+    ]
+  },
+  {
+    "id": "53d4cc2d-d8c9-4956-9323-bb6e0185c024",
+    "created": "2022-05-16T20:10:49.9062914",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-53d4cc2dd8c949569323bb6e0185c024?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=tOiRUhr6vswLzXwKSTDbWoiEcT7RgHholp7exg%2FyLvM%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-53d4cc2dd8c949569323bb6e0185c024?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=ox2nigPzDx6CQPC28YPoFWQrsuh1G%2FxWQzXDJSPgXx4%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-53d4cc2dd8c949569323bb6e0185c024?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=2%2FoSY4S44sKSU39p4Z9FZp5t%2FkuJxMBXBw4uc9gBy0o%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:17:34.4228472"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "bda7483a-9031-44ad-97a0-78d5ace589ce",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:17:34.4228472",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.07263514,
+        "top": 0.22992484,
+        "width": 0.8361486,
+        "height": 0.37594935
+      }
+    ]
+  },
+  {
+    "id": "73546097-461a-46d2-b9ab-b35d8f157fa1",
+    "created": "2022-05-16T20:10:49.7524243",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-73546097461a46d2b9abb35d8f157fa1?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=cn3R6ZXwmEhM%2BohpJghsy9NXfziEQ343fXepKOQhH1o%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-73546097461a46d2b9abb35d8f157fa1?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=U%2FJ7tCukOp0VEGjff4jZqkgfC2KT%2FXgGGo%2FCJ7y54lI%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-73546097461a46d2b9abb35d8f157fa1?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=f8Vq5zQyJzNrLwpBJbDinBOSLVxRh%2FKAPT5W9VzDBjI%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:17:50.8759083"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "7db6a5ee-fc10-4f64-9314-79d229af9e47",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:17:50.8759083",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.0777027,
+        "top": 0.23625396,
+        "width": 0.8175676,
+        "height": 0.37341774
+      }
+    ]
+  },
+  {
+    "id": "e81941c8-2ca0-4fb2-b393-eee290b73532",
+    "created": "2022-05-16T20:10:49.6397890",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-e81941c82ca04fb2b393eee290b73532?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=tkl0%2FRazAidr3lez6CGNOV4rdc9Cy3Mbj5BH3W7Y2AY%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-e81941c82ca04fb2b393eee290b73532?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=uhc8ZEVhbfcBPTqUpqZScMQOnRc7CWObcD8m%2B5ka6GU%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-e81941c82ca04fb2b393eee290b73532?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=9h%2FKC3S33GoskmZV1m7CgcxlpPhIHoP0RmkjgMcdRo4%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:18:03.4383688"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "9c151945-e4f5-45f7-8c94-d2e322418a9f",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:18:03.4539925",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.0929054,
+        "top": 0.21346915,
+        "width": 0.8091216,
+        "height": 0.36202532
+      }
+    ]
+  },
+  {
+    "id": "f8eb4834-2cad-4956-a83b-7c9629358929",
+    "created": "2022-05-16T20:10:49.5120538",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-f8eb48342cad4956a83b7c9629358929?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=iUSLABIoqkHG4AFSPZvkqTFH%2FsWSARCgc0gamYCvR6w%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-f8eb48342cad4956a83b7c9629358929?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Z2NCUd4BnybiwYEiQSLbN5lrZF0IC1RLGG9ojLmSFqg%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-f8eb48342cad4956a83b7c9629358929?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=ie3on02eDaDGAneMF7IsCZszv4QWEa90uj0SNAXJTtk%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:18:29.8913787"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "49c20332-9180-425a-96cb-db1c3fa55ca9",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:18:29.9070036",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.10641892,
+        "top": 0.13498813,
+        "width": 0.7719595,
+        "height": 0.33924052
+      }
+    ]
+  },
+  {
+    "id": "3aa8def5-f304-4287-8d1e-57fdb12f6aa0",
+    "created": "2022-05-16T20:10:49.2077771",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-3aa8def5f30442878d1e57fdb12f6aa0?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=ySavCA5OVqtCgU8AEhf0TX0FTNVK6qOnhylvT%2B9KthY%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-3aa8def5f30442878d1e57fdb12f6aa0?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Xv43QZr%2BCS0v9w2aTYZb9HtNKkIB3VYyVgkqbNBs%2FIQ%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-3aa8def5f30442878d1e57fdb12f6aa0?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=lnb97PbVsmapP3eoAjhlcXOoJbe4%2FysIsSfZwAl%2FObc%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:21:38.5783531"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "7db9d5af-dd0e-47d0-a053-9d67bf12151f",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:21:38.5939853",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.10810811,
+        "top": 0.12359573,
+        "width": 0.7381757,
+        "height": 0.3227848
+      }
+    ]
+  },
+  {
+    "id": "5537a1e8-1c9f-4b26-851a-b1cc87fe049f",
+    "created": "2022-05-16T20:10:49.1291797",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-5537a1e81c9f4b26851ab1cc87fe049f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=v%2F07TILyqMgs9%2BBEFDdFrmTXKutvLddZXot4YkPiaxg%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-5537a1e81c9f4b26851ab1cc87fe049f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=oU%2FdHGFlyRiEzFxBWJPJnzwwJMJe2HTx6EzRHLwXtac%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-5537a1e81c9f4b26851ab1cc87fe049f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=cGMgDGaRXqb14aK3Sgj7lWcO0a0RyKwtGHJ%2FsyFEOu8%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:21:50.4533316"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "4a1d4a2a-10f5-4d4c-9847-c4c8c2ec2364",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:21:50.4689538",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.11486486,
+        "top": 0.12865902,
+        "width": 0.7043919,
+        "height": 0.30886075
+      }
+    ]
+  },
+  {
+    "id": "fda3a411-b311-43e5-8c5f-db4b99cc2e0f",
+    "created": "2022-05-16T20:10:49.0210270",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-fda3a411b31143e58c5fdb4b99cc2e0f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=rPlO9IDDs1vCdcXkO3vsFtoOLVtCMIACvT%2FI%2BMEl0dc%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-fda3a411b31143e58c5fdb4b99cc2e0f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=UYcpjlnz%2Fzokg6cT38kXCGYRr9rdtCIG4%2FwjHHdp94g%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-fda3a411b31143e58c5fdb4b99cc2e0f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Z14mKJJFh9Kwh4rpROtO0KWCXE0jSifA6Sv%2F%2BBa77XU%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:22:04.6251759"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "4e3abf49-b644-48ba-8900-a837c3bf9ef4",
+        "tagName": "Z1ROI",
+        "created": "2022-05-16T20:22:04.6408033",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.14358108,
+        "top": 0.11726661,
+        "width": 0.6570946,
+        "height": 0.29113925
+      }
+    ]
+  },
+  {
+    "id": "4a88ee11-e30f-4ce5-a17f-fa339e650479",
+    "created": "2022-05-16T20:10:48.6202403",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-4a88ee11e30f4ce5a17ffa339e650479?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=QHZ3%2FjZNilOSvQxO2bOuxN5wEURmuxaVM5%2Bbv4DxA5o%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-4a88ee11e30f4ce5a17ffa339e650479?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=7rLAcHjG8GCEOmCbDK4nLg%2Fbpj6YYcJEJD49yOcd0Io%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-4a88ee11e30f4ce5a17ffa339e650479?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Ox%2FRTqM6rbblOj5%2ByaxV7lNMhe7ux9fHOfWwZi4IYLc%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:24:28.7583487"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "ef59f3a5-e3f5-4e7e-bd18-2197f12e6d75",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:24:28.7583487",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.1891892,
+        "top": 0.10207674,
+        "width": 0.6047297,
+        "height": 0.25696203
+      }
+    ]
+  },
+  {
+    "id": "5407b5a3-14c7-4d73-9dea-f6fa145d35c8",
+    "created": "2022-05-16T20:10:48.5037699",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-5407b5a314c74d739deaf6fa145d35c8?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=utHDqHqo%2B%2FTUEUF5uoX5C%2FRm0ZdHvFioZAcNneY2vTs%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-5407b5a314c74d739deaf6fa145d35c8?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=6MlK6iDGwrRAMkUB820vqEnbPanKr8NPC2yV3C6nJdQ%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-5407b5a314c74d739deaf6fa145d35c8?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=SA8JoHaXJz1qOler1PVVwNIXggI6mAmjE6cW%2BVy%2BzrU%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:24:44.2270762"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "383491ee-482d-4f74-874d-1bb7304d6d07",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:24:44.2427025",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.21621622,
+        "top": 0.06030459,
+        "width": 0.5675676,
+        "height": 0.23670886
+      }
+    ]
+  },
+  {
+    "id": "d7a5b6db-9245-46e4-ac68-1549b46dc2e7",
+    "created": "2022-05-16T20:10:48.0493521",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-d7a5b6db924546e4ac681549b46dc2e7?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Xs8uynxqwsL5juSNgiEmZMCJVyVn0%2B3w0j6x%2F34jW14%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-d7a5b6db924546e4ac681549b46dc2e7?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=AXC1GSXFNjpz5DWNLoovGKz6UUihgUN0aC7zI6jcfWg%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-d7a5b6db924546e4ac681549b46dc2e7?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=V4XS%2BJKkX24XYSBM8egfNjAFw1SMfLtUnfHyYWVlKGU%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:24:54.6489324"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "9f8d3dbe-fd3f-46d8-af7a-0aa5b07a8850",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:24:54.6489324",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.20608108,
+        "top": 0.027393196,
+        "width": 0.5574324,
+        "height": 0.2278481
+      }
+    ]
+  },
+  {
+    "id": "a49ef9e4-c17c-4a08-9a47-dc0a3e5c98dd",
+    "created": "2022-05-16T20:09:38.2211344",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-a49ef9e4c17c4a089a47dc0a3e5c98dd?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=GpwcqNnCT6XoH26QbBNJRpBhqqGqRmmn%2BEOMdFpSgy0%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-a49ef9e4c17c4a089a47dc0a3e5c98dd?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=vLuYJyFdGCSXcW5B%2FngeAote%2Byw91%2FwONmyWojYoPd4%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-a49ef9e4c17c4a089a47dc0a3e5c98dd?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=S3bcXPbgMmGTaHHp1hw54Sumjx9I2C9BtoxUHWCw%2BrI%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:25:08.4301589"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "6eabbbf5-a772-4de1-9f16-6c2097056696",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:25:08.4301589",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22466215,
+        "top": 0.013924051,
+        "width": 0.5574324,
+        "height": 0.22486155
+      }
+    ]
+  },
+  {
+    "id": "9e13e23e-5cea-4b5f-94f5-44af70f86fea",
+    "created": "2022-05-16T20:09:37.5354538",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-9e13e23e5cea4b5f94f544af70f86fea?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=pkULhfBfFOWmhB2g05h%2FhC2R8jY51kuHFFRe%2FxWPPUI%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-9e13e23e5cea4b5f94f544af70f86fea?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=fxLX1IjjMMsYBO36wwmt21I9sRpBIRX35JdRwdpGiRY%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-9e13e23e5cea4b5f94f544af70f86fea?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=dspiUT4R5KJryHSp4X9fjGgyemNWeQjvP1nTB3DlokA%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:25:28.3832495"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "3830f6e6-c252-49f2-8a84-c6050f694c34",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:25:28.3832495",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.23648648,
+        "top": 0.01979826,
+        "width": 0.5540541,
+        "height": 0.22278482
+      }
+    ]
+  },
+  {
+    "id": "65a20d71-7fb5-408f-bd9e-adb935dc857e",
+    "created": "2022-05-16T20:09:36.2928690",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-65a20d717fb5408fbd9eadb935dc857e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=0Fd10DXwCw0LP8aCAIUrVAPb9CHq9B5iLKdzvF10TTI%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-65a20d717fb5408fbd9eadb935dc857e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=S%2F6uqgui5HrkenFPZTvuoFpGtzpgRxgOnX%2BhkEjjI5M%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-65a20d717fb5408fbd9eadb935dc857e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=XpcNUHD8klHzYMei1p%2F56vnqm99v8x74Mf%2F4glwHJP4%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:25:41.3363504"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "3c45d758-c4d1-4bdc-8c51-8b9986e91a6a",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:25:41.3363504",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.25,
+        "top": 0.01600079,
+        "width": 0.5540541,
+        "height": 0.221519
+      }
+    ]
+  },
+  {
+    "id": "77c65f34-591e-4cc1-be63-95369b132c5d",
+    "created": "2022-05-16T20:09:35.6674216",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-77c65f34591e4cc1be6395369b132c5d?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=FXDxgtaYtprtqXkZ1Ed8pb%2FH%2BDs37a%2BiJDE8SviDX1w%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-77c65f34591e4cc1be6395369b132c5d?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=exhQzjhoIUrfQTNOBGq%2FhLC3lAfHvQ8%2B0RUozdY%2FI%2F8%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-77c65f34591e4cc1be6395369b132c5d?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=9Bf31ZO88rzIeBXJp%2F6Fr%2B3%2B00h0ULsmIYTuCszuJQg%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:26:04.9613103"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "455aa585-1d8b-4dff-b9e4-ad85d71eac62",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:26:04.9769363",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22804055,
+        "top": 0.050178006,
+        "width": 0.5472973,
+        "height": 0.21898735
+      }
+    ]
+  },
+  {
+    "id": "91b81f70-5b49-4bbb-8088-e16c3b9e7ead",
+    "created": "2022-05-16T20:09:35.6611068",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-91b81f705b494bbb8088e16c3b9e7ead?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Qveh0SMsRv9wbPakasMrfioulCxNckq0nmUdl%2BabKco%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-91b81f705b494bbb8088e16c3b9e7ead?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=DLqp21XfNvfTT5TnVmUqhhevNu2MtsS%2BcXeI8ie3dH0%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-91b81f705b494bbb8088e16c3b9e7ead?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=7mx1RWNurVYah1UAvT%2FBjAPNPahR%2B4EIV2luoFIeBGc%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:26:24.8206535"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "3238e662-324b-4d80-8fff-8f50fbd63688",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:26:24.8206535",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.2533784,
+        "top": 0.023595728,
+        "width": 0.5472973,
+        "height": 0.22025317
+      }
+    ]
+  },
+  {
+    "id": "5e65ac99-62e7-4b86-a945-1adeea7e2f3a",
+    "created": "2022-05-16T20:09:35.6147198",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-5e65ac9962e74b86a9451adeea7e2f3a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=sCUZwpEUoKdNIkRhusz9c%2F1PwSvNMcM9uv8fh9lIQes%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-5e65ac9962e74b86a9451adeea7e2f3a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=3kCMsuU%2Bl0yywGStLGVuDShDrRcNR5671%2BZ%2BoY1Y1xo%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-5e65ac9962e74b86a9451adeea7e2f3a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=0CIFASmFJfGYxRe40W9%2BLO0kdpfU88%2BDisf6V%2BN7IOs%3D"
+  },
+  {
+    "id": "7763aeb8-8816-4acb-8a71-68514fd5674e",
+    "created": "2022-05-16T20:09:35.0712274",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-7763aeb888164acb8a7168514fd5674e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=zgvGJF00ZZni8FZBKZ1Wj2ROpkY8K7G8AwRNrfbePcw%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-7763aeb888164acb8a7168514fd5674e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=PIBZj5ynj6vJRsdZqJeml2rCs562gAGBMK0oo9hnMzQ%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-7763aeb888164acb8a7168514fd5674e?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=aKmP9mB2GmZ6fAa7vb5HjrAsDRFFqGeNiRH34KWPqy0%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:06.1799572"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "79aa2b13-aa34-44c1-9159-a2ee3e387faf",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:06.1799572",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22297297,
+        "top": 0.18941851,
+        "width": 0.5152027,
+        "height": 0.22405063
+      }
+    ]
+  },
+  {
+    "id": "1d685c1f-46d1-4943-8996-986c781b8621",
+    "created": "2022-05-16T20:09:35.0225884",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-1d685c1f46d149438996986c781b8621?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=VkcqS%2F9xG4KZVoQf0mWPw7S7x89T2RnewyiO8duGMe8%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-1d685c1f46d149438996986c781b8621?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Azm%2BnXwcp%2Bdp%2BqPYsCRoJKVOHNl0crzdxfO05xL7EKE%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-1d685c1f46d149438996986c781b8621?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=1QhsmZtUx3cWtYZPCeJPNzmhpvWwDNquqaWeBr5DPyc%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:21.4143081"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "99816399-23bd-4053-9510-3720b1c50a39",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:21.4299364",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22297297,
+        "top": 0.21979827,
+        "width": 0.5067568,
+        "height": 0.22405063
+      }
+    ]
+  },
+  {
+    "id": "0bd617c6-ac5e-4596-b308-400a7136d3e2",
+    "created": "2022-05-16T20:09:35.0109061",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-0bd617c6ac5e4596b308400a7136d3e2?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=mrcf9k695ysOkL8x%2F1PxPeSojwIfd4j6jMI1N3tnOR0%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-0bd617c6ac5e4596b308400a7136d3e2?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=G9h0i40QXJ10qIYRANt7%2FNIdfRKFVc6eebnQIhbuPoE%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-0bd617c6ac5e4596b308400a7136d3e2?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=RCJcNVbKMedZz3IL9IS%2BDi8TRG8%2FfeU2Nt7i%2FahTu6M%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:35.1017866"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "1fedbcf4-0687-45fd-af91-ebf97fd4eeaa",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:35.1174132",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.2635135,
+        "top": 0.05650712,
+        "width": 0.5439189,
+        "height": 0.2
+      }
+    ]
+  },
+  {
+    "id": "d114394c-ea8e-46cb-a6af-adbc33ef9d50",
+    "created": "2022-05-16T20:09:34.3893526",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-d114394cea8e46cba6afadbc33ef9d50?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=sJi%2FLcSYV4LqVQ0nalPUPnU0Ke3sEJ5ubhQvHUDmpNE%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-d114394cea8e46cba6afadbc33ef9d50?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=4xcx7dv4fqUzmmHqSJFKIAXphQPs7OIEC7HAC3T5oTw%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-d114394cea8e46cba6afadbc33ef9d50?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=KrIlOF9zbozF3eBRWODgweSKF8Xi9h%2B4k%2FUpclrP%2F%2Bg%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:48.1173913"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "a7fd42f5-dfc1-4c0e-8783-3195b5caa6bd",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:27:48.1330163",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.23817568,
+        "top": 0.07422864,
+        "width": 0.5304054,
+        "height": 0.2050633
+      }
+    ]
+  },
+  {
+    "id": "2b3a30a6-20ac-495f-8fc8-205e31ded64b",
+    "created": "2022-05-16T20:09:34.3828234",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-2b3a30a620ac495f8fc8205e31ded64b?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=y3P0mOWywdjdoFponL2nqthb5pS2g440Wes7i%2B1Fts8%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-2b3a30a620ac495f8fc8205e31ded64b?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=epGaPPBcJvkqEIcg%2FLOC6SifMVpdERSOhw%2Fcv%2BCrUa8%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-2b3a30a620ac495f8fc8205e31ded64b?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=42DG3PBqrWem46roWWWK0tq7LoanOM8vvgd4UDB7Vr0%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:02.8829692"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "5bcdd291-d4d7-41f4-b399-9c74c9cabe96",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:02.8985935",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.25844595,
+        "top": 0.07043117,
+        "width": 0.535473,
+        "height": 0.20126583
+      }
+    ]
+  },
+  {
+    "id": "32a8b7e6-1775-4129-8470-63e0dc4f8e85",
+    "created": "2022-05-16T20:09:33.8019183",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-32a8b7e617754129847063e0dc4f8e85?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=o85JHp278rRn6QIOUypL8VkjE0zlyURgo3KyuVyBixs%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-32a8b7e617754129847063e0dc4f8e85?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=DMXI2aM1A9das3VNLYkmx0cqstSYLL%2FXTLCsBrBDzX8%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-32a8b7e617754129847063e0dc4f8e85?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=IJHRn6eFaq0%2BscaWIA2u0SNF27L7fv13PB3g9ak00JE%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:18.9297666"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "5a61a55c-7dc1-4ce8-9ca4-9a901299ac55",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:18.9453920",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.23648648,
+        "top": 0.08435522,
+        "width": 0.527027,
+        "height": 0.2063291
+      }
+    ]
+  },
+  {
+    "id": "33062b08-f55f-41b2-acd1-53eb2b401901",
+    "created": "2022-05-16T20:09:31.0866255",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-33062b08f55f41b2acd153eb2b401901?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=WsRjlkwnYq72hLGJfGNBHZidx2oL0JQ04ShOHqSFQRU%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-33062b08f55f41b2acd153eb2b401901?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=zSk7gPJ8u52o2axty3zNTwzyKdkf9p65O2U1DbpU6lg%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-33062b08f55f41b2acd153eb2b401901?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=XhiuLGb%2BoCaoVja5t639VJOtlLbrqZ3vNqsGOkAwS4A%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:29.6640861"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "99501911-e20e-48fc-b049-0275d7177959",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:29.6797111",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22804055,
+        "top": 0.07929193,
+        "width": 0.5152027,
+        "height": 0.21012658
+      }
+    ]
+  },
+  {
+    "id": "7a34a8e7-a9e0-406d-883f-819e5ca70bbb",
+    "created": "2022-05-16T20:09:30.9402448",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-7a34a8e7a9e0406d883f819e5ca70bbb?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=fCLKMHNIrGznkCkCv29r%2FCNb%2BMa7LfAcxGPHTMhX6f8%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-7a34a8e7a9e0406d883f819e5ca70bbb?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=VUdYsoEp6rKJYGmlrzjtldDipxIUECSh4IJs9zAyl%2B8%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-7a34a8e7a9e0406d883f819e5ca70bbb?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=LVhdebdfphNTXNCfmQjuf%2FrcZ%2BL9J4UH66adBhoO5U0%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:36.8046668"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "64e544e4-c78f-418d-9eb4-1ad77886f472",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:36.8203063",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.23141892,
+        "top": 0.10587421,
+        "width": 0.5050676,
+        "height": 0.2050633
+      }
+    ]
+  },
+  {
+    "id": "42067687-6b29-4eed-8569-2f1b3f9c2f6a",
+    "created": "2022-05-16T20:09:30.8998029",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-420676876b294eed85692f1b3f9c2f6a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=LhIaLax8xI15i99XBXwqCfD7CqjYZPbAGK9K5L5OosA%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-420676876b294eed85692f1b3f9c2f6a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=QyVLEKr9lO3FmDJSmFAQHLGbgGH7whJIpRqGhY3czx8%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-420676876b294eed85692f1b3f9c2f6a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=XZ1dq5%2FsoqsqwlQIR3sTH2oyqynFbyRRpxhvWmqxULc%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:51.2108338"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "8c9ec6bb-653f-4c82-a4d4-db9792d27171",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:51.2264587",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22635135,
+        "top": 0.100810915,
+        "width": 0.5084459,
+        "height": 0.20126583
+      }
+    ]
+  },
+  {
+    "id": "39820b27-9615-4704-82f7-b45bb8148da3",
+    "created": "2022-05-16T20:09:30.7699487",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-39820b279615470482f7b45bb8148da3?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=x1Cho8FYBcEGZhbGesfI1wgiUQdyaj9Qm9fDCAPgK%2Fs%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-39820b279615470482f7b45bb8148da3?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=NYhhc5kdKCoNlqLe1vb9blfwhbY2oGEj7raiKwRbh%2BQ%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-39820b279615470482f7b45bb8148da3?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=yBIJxMFVAZndTrDlrA7S84Lx8smkvS2iydOaWx098pk%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:59.9295397"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "2ace1863-09ac-4a1d-9ae9-2d3938d0bc35",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:28:59.9295397",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.22128378,
+        "top": 0.10334256,
+        "width": 0.5135135,
+        "height": 0.20253165
+      }
+    ]
+  },
+  {
+    "id": "0e7135e9-1552-4171-90c7-9bb3efe4290f",
+    "created": "2022-05-16T20:09:30.3799622",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-0e7135e91552417190c79bb3efe4290f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=PH8IOsW2Y4rMNEtdOf3Lf%2Fad54q89ZpokCorhjVS9Ug%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-0e7135e91552417190c79bb3efe4290f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=vpDfRoPv48tNz9ShMF9pVVV%2B4utuOv5xRqHEm7mcdKU%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-0e7135e91552417190c79bb3efe4290f?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=0FSRE24alBFOuP3%2Fc88TLhLztBb3hQJPgRrbGmZda8Y%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:10.5076026"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "463cd6a9-0eb3-43f8-987d-20468f2dff65",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:10.5232267",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.20777027,
+        "top": 0.09574763,
+        "width": 0.5219595,
+        "height": 0.2113924
+      }
+    ]
+  },
+  {
+    "id": "0af915dd-2b90-452f-a817-6d1c125720d8",
+    "created": "2022-05-16T20:09:30.3075732",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-0af915dd2b90452fa8176d1c125720d8?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=gKgC4ZBCnPhpmVii%2BKHNvu58EniWeqRdlcgoE67GJMM%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-0af915dd2b90452fa8176d1c125720d8?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=U644fc9kSQInPZ9WhFOxgMp%2BxXbPtaLT9fKyw3oU2g0%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-0af915dd2b90452fa8176d1c125720d8?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=2S5eFidlx4UVCO7gz1nB4X9ccmZgCe1IGtF38Dm70Lw%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:17.3044437"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "0c2769cc-715c-4308-a382-633e8c65a793",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:17.3044437",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.16216215,
+        "top": 0.07549446,
+        "width": 0.5422297,
+        "height": 0.22405063
+      }
+    ]
+  },
+  {
+    "id": "422bbff9-f0bf-42f9-9df8-6d71686110a9",
+    "created": "2022-05-16T20:09:30.3054530",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-422bbff9f0bf42f99df86d71686110a9?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=4CFAuQbuXomskqQB1%2BszZSl68B6geXYYerr7qpOGzR0%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-422bbff9f0bf42f99df86d71686110a9?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=xKf8SW4tMdIObNNXxnMfFGtiVmsxinIMTy8Cvjuf92c%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-422bbff9f0bf42f99df86d71686110a9?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=rgBj9SJN%2BcXDYyPNz5xShfz9OswdyMOH5LoLa4%2FQddI%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:24.7262737"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "7520a47c-6366-48a0-b004-f5fa286e4345",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:24.7262737",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.1706081,
+        "top": 0.071697,
+        "width": 0.5405405,
+        "height": 0.21772152
+      }
+    ]
+  },
+  {
+    "id": "25b7af59-d37f-46e3-a72e-6ca39216fd72",
+    "created": "2022-05-16T20:09:29.7977406",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-25b7af59d37f46e3a72e6ca39216fd72?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=USFGz9bBO5QDZyWmjvZDPnI1KOk03rUAeiFAiZI0tZw%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-25b7af59d37f46e3a72e6ca39216fd72?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=QACjUT6BdnixTFCnOMxHFeeSPz3jXdngUft7AMKhbbw%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-25b7af59d37f46e3a72e6ca39216fd72?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=T1jfGR3TQwF8%2FSRYu1v28nW3sH1%2B7pmtpq99dyAEFFo%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:32.5699862"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "0a21710e-b4a9-4fa8-8675-69f8d1d4dbff",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:32.5699862",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.17567568,
+        "top": 0.055241298,
+        "width": 0.5489865,
+        "height": 0.23164557
+      }
+    ]
+  },
+  {
+    "id": "d2da31e8-9495-46b1-b70b-5981569b7ae5",
+    "created": "2022-05-16T20:09:29.7148312",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-d2da31e8949546b1b70b5981569b7ae5?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=hL0xHkUsYNzUiNe13BGsL3DOpxVtiepwg19SlwvNibw%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-d2da31e8949546b1b70b5981569b7ae5?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=eKTYu7506r13dcfE40FywZYhwgCnBUYwM%2FLqDlAxHNM%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-d2da31e8949546b1b70b5981569b7ae5?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=04w8ZYc%2BiZG3XZTYqJW0AhBCkJUW6PWJKQfdPEhxf34%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:41.5074379"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "63a5b429-6e97-4a6f-8d9b-d2783a0cf696",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:41.5230618",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.21452703,
+        "top": 0.080557756,
+        "width": 0.5253378,
+        "height": 0.23164557
+      }
+    ]
+  },
+  {
+    "id": "5e38aab6-031c-41f4-9b2c-83864c4f45b4",
+    "created": "2022-05-16T20:09:29.2052401",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-5e38aab6031c41f49b2c83864c4f45b4?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=4taCmfqh70W9DfERjimwW1P2H%2Fgyil1VMZLCm4GjgQw%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-5e38aab6031c41f49b2c83864c4f45b4?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=6yvG3HSqagyp1l5lkgJdhYVtOCCtjBsnFElmUIno1p4%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-5e38aab6031c41f49b2c83864c4f45b4?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=JpksbZHiCqiTBj4MYqHl2GkH2Y4FKkTyN%2Fno0bybV9I%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:52.2105089"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "c353ec50-7a67-4235-9de1-33c9562cc69a",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:29:52.2261350",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.19763513,
+        "top": 0.116000794,
+        "width": 0.5135135,
+        "height": 0.2164557
+      }
+    ]
+  },
+  {
+    "id": "8171c904-37b9-41cf-998e-60a21b10f426",
+    "created": "2022-05-16T20:09:26.4289847",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-8171c90437b941cf998e60a21b10f426?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=PgZHRMn%2Bs%2F0X3Gv9ypASDZ8WMaduwB2YvR8o5crkiFg%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-8171c90437b941cf998e60a21b10f426?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=IhLRiYu2s4ZQ9ZlMUB4hDVuE%2FDaXLPuruEK0l74aU80%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-8171c90437b941cf998e60a21b10f426?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Pq2KzldbWJNxQpJmcIVAq3HAK9hbS4l02cwvcpTkr6Y%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:02.0854592"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "fc158860-83f4-4f8b-bbe3-effeffdc2bbe",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:02.0854592",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.20777027,
+        "top": 0.08435522,
+        "width": 0.5253378,
+        "height": 0.22025317
+      }
+    ]
+  },
+  {
+    "id": "9af76b16-304b-4201-8e6d-bd835b941d17",
+    "created": "2022-05-16T20:09:26.3808355",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-9af76b16304b42018e6dbd835b941d17?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Wv3qOn5KiTbjx2twlbLEhAO5YhEpXHWcIKRnDfF%2FzOo%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-9af76b16304b42018e6dbd835b941d17?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=wZs9B0LzBYetF%2F5Kt3pVkKRi6eBg3KlowFhNKoaGZ4w%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-9af76b16304b42018e6dbd835b941d17?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=vyxaxe0sdqwXxjF2Ifd1UHrbLKv7wk05RKcePUhbFcE%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:14.1166504"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "f6add53b-d4d0-4e72-8946-4cb75c9b6935",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:14.1166504",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.19594595,
+        "top": 0.089418516,
+        "width": 0.5371622,
+        "height": 0.2278481
+      }
+    ]
+  },
+  {
+    "id": "1a826d15-0333-4a2c-8515-f955a2276740",
+    "created": "2022-05-16T20:09:26.3479753",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-1a826d1503334a2c8515f955a2276740?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=czWjTmxJ7XLFttmqX0nmy5zO7LTo7Ttg3NQ%2BcJyy50s%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-1a826d1503334a2c8515f955a2276740?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=vukCHQ%2BUIUTtkgpi9cOlhPs4Adj%2FUbtQbSEdTVcEO5A%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-1a826d1503334a2c8515f955a2276740?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=WcGIjC30KcUw%2BBatj0CnQferIrR7fFkS45asZny7SpQ%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:22.8978620"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "fa506f88-12af-45d3-8c81-0d763544f9d0",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:22.9134859",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.20777027,
+        "top": 0.08435522,
+        "width": 0.5202703,
+        "height": 0.21772152
+      }
+    ]
+  },
+  {
+    "id": "63706fbb-bd26-4d0a-a4a2-3453d67f485c",
+    "created": "2022-05-16T20:09:26.2166280",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-63706fbbbd264d0aa4a23453d67f485c?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=BO65I4uXVtIsnJCgBs6dmY%2F6wVIz9l%2F9Oz6z7Xz8hbo%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-63706fbbbd264d0aa4a23453d67f485c?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=tInBmjR%2Bgk8uIoZlR4pYmwxvjsN%2FcPAPmgbeFJmHAN0%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-63706fbbbd264d0aa4a23453d67f485c?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=UhB5yFgEsm1rbRC%2BrISLK3WT1KUtWK%2BYMlmjKa3LFs4%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:31.4759451"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "c4163408-ecb1-4bcb-aea3-f3ff130ac236",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:31.4915694",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.17398648,
+        "top": 0.0830894,
+        "width": 0.5472973,
+        "height": 0.23670886
+      }
+    ]
+  },
+  {
+    "id": "43ad0191-a43c-487c-8377-d48600b9be5c",
+    "created": "2022-05-16T20:09:25.8549369",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-43ad0191a43c487c8377d48600b9be5c?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=uTZGiO6dyTT7nGB09U7smg1oyxBrjmtKYBNXFLRSebo%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-43ad0191a43c487c8377d48600b9be5c?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=lymFxPRlg%2B1CU7Uz00CgPzz5vxLCRGVpUla3HBRdRTs%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-43ad0191a43c487c8377d48600b9be5c?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=%2BFWQqcMh6dR7eawSTZVJH%2FW76x%2BbIv7GcS%2FAPbV%2FLc8%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:39.1790442"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "54ad35f8-ec5c-44c8-af5b-921e3115984b",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:39.1946595",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.1722973,
+        "top": 0.08688687,
+        "width": 0.5540541,
+        "height": 0.23797469
+      }
+    ]
+  },
+  {
+    "id": "105b0d72-7156-4afb-a9ee-a5e5a3439c53",
+    "created": "2022-05-16T20:09:25.8399937",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-105b0d7271564afba9eea5e5a3439c53?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=XMbocuP6UEY9xxvdnYgnOPfF%2BbSqBlwNuja5PNCLSeU%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-105b0d7271564afba9eea5e5a3439c53?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=qCnkX4uaMoVOcHMX9P9NQ0QTS3bv0%2Flh%2FUP9uk3SzM4%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-105b0d7271564afba9eea5e5a3439c53?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=87fQNg4XMtSaK11yflawgpwoCB5iiw7baZvp51fRqBg%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:56.1320863"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "4b77a82e-82e8-4f88-8104-d5d6f05c7fdc",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:30:56.1477097",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.2027027,
+        "top": 0.0830894,
+        "width": 0.5625,
+        "height": 0.25696203
+      }
+    ]
+  },
+  {
+    "id": "e7082e2e-8b2f-4d06-a75a-59b2922fcb98",
+    "created": "2022-05-16T20:09:25.7843592",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-e7082e2e8b2f4d06a75a59b2922fcb98?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=dtCf93lGL6tlTj24LhA6gQW2PqP1WW0a8RnTCf%2FPV4o%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-e7082e2e8b2f4d06a75a59b2922fcb98?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=t76bMZcfLI3hVYvCmRdSfIZbpAveCxujkvjdYKEVFzY%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-e7082e2e8b2f4d06a75a59b2922fcb98?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Ik5WIjZuVfEe4P9%2BImCuogSziZt%2Fm%2BX4XStQEUR39ME%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:31:14.2101333"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "7a0b9dfb-9c78-47a4-981f-32fb72ea83f5",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:31:14.2257581",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.20608108,
+        "top": 0.07929193,
+        "width": 0.5625,
+        "height": 0.26962024
+      }
+    ]
+  },
+  {
+    "id": "9c7372bf-4df1-47fc-978a-dfa4c851038a",
+    "created": "2022-05-16T20:09:25.3983970",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-9c7372bf4df147fc978adfa4c851038a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=nwhfkIhFkP8oTc3JwMoljSHuR67gZG5tFAtRQYvKykA%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-9c7372bf4df147fc978adfa4c851038a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=AZo8QkMh8g4XcU9HWDnoJN07Htu3NFo%2BcPgsw1nGk6I%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-9c7372bf4df147fc978adfa4c851038a?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=Sq93I6B7zHG8gkg1nSt4aj8Qf6r57trbpOr7rCjL3kQ%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:31:34.9287998"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "2ece0103-0261-477a-a49c-12623f7d0f5e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:31:34.9287998",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.2685811,
+        "top": 0.0830894,
+        "width": 0.5777027,
+        "height": 0.27721518
+      }
+    ]
+  },
+  {
+    "id": "7278ec9c-2646-4c02-9411-a903e4e72038",
+    "created": "2022-05-16T20:09:25.3870858",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-7278ec9c26464c029411a903e4e72038?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=oH4zb7oRCa72mlswZoif00fJUZB8YGu29RQ3IpHopMM%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-7278ec9c26464c029411a903e4e72038?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=UR0CUf%2BjjIJo3ZGocTzhMjhXHF8JESNIo8bYia4g9Do%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-7278ec9c26464c029411a903e4e72038?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=DcCcozbaCtudyZYjL9IyLa6b0osx5Bhd45gOsyPNIc8%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:33:35.3190092"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "9626cacd-12e7-4ee8-ad35-21ef75ab58ae",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:33:35.3346338",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.2331081,
+        "top": 0.06916535,
+        "width": 0.5456081,
+        "height": 0.23797469
+      }
+    ]
+  },
+  {
+    "id": "cdf4fa9a-ee66-4360-bfdf-72d8373104e5",
+    "created": "2022-05-16T20:09:24.9434672",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-cdf4fa9aee664360bfdf72d8373104e5?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=qLgtBA88XJdH4%2BHjSX3M1FWmwvlpTP9ViI%2BYFpsq3%2Fw%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-cdf4fa9aee664360bfdf72d8373104e5?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=ACtO8MRmArI2%2FjypLWdGqgyc0Yzo%2FU%2BF608k3tdIR4E%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-cdf4fa9aee664360bfdf72d8373104e5?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=JPGb23qeTQpfj2rvgw1H8W9OL0p5Wa2CtinMahD8Blo%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:33:54.1470776"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "fcc906ff-a61c-4465-add2-8d73504b9257",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:33:54.1627030",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.23986487,
+        "top": 0.12359573,
+        "width": 0.5287162,
+        "height": 0.2063291
+      }
+    ]
+  },
+  {
+    "id": "778a62eb-ba63-498b-9162-dd8408b712ab",
+    "created": "2022-05-16T20:09:22.3675836",
+    "width": 900,
+    "height": 1200,
+    "resizedImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/i-778a62ebba63498b9162dd8408b712ab?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=daHAN6Mou9gRZ645pS4k%2Bc2hKoD9puxV2oZwr%2B%2F4LTs%3D",
+    "thumbnailUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/t-778a62ebba63498b9162dd8408b712ab?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=eeLlA4i0vf4ltLPzej5npgNcvuuUNroAozYsgYs5WdE%3D",
+    "originalImageUri": "https://irisprodwetraining.blob.core.windows.net:443/i-72ee1910b4c445559e1bfd933d93d586/o-778a62ebba63498b9162dd8408b712ab?sv=2019-12-12&se=2022-07-08T11%3A33%3A22Z&sr=b&sp=r&sig=wsvnoh3RO0d6bQd4p7Y5SI3g3oC5qrsZMWZpoZwZUn0%3D",
+    "tags": [
+      {
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:34:10.5845282"
+      }
+    ],
+    "regions": [
+      {
+        "regionId": "428a5658-ad50-4db4-9d4a-e475a8f25186",
+        "tagName": "Z1ROI",
+        "created": "2022-05-17T06:34:10.5845282",
+        "tagId": "698c2118-4e52-456d-9ca0-91fa22fb0e0e",
+        "left": 0.23648648,
+        "top": 0.03372231,
+        "width": 0.5827703,
+        "height": 0.221519
+      }
+    ]
+  }
+]
